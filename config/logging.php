@@ -38,7 +38,7 @@ return [
 
     /*
     |--------------------------------------------------------------------------
-    | Log Channels
+    | Log Channels.jsx
     |--------------------------------------------------------------------------
     |
     | Here you may configure the log channels for your application. Out of
